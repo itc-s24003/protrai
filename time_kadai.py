@@ -21,7 +21,7 @@ root = tk.Tk()#初めのおまじない
 root.title("時計アプリ")
 #
 lbl = tk.Label()
-lbl.config(text="",font=("Helvetica", 20))
+lbl.config(text="",font=("Helvetica", 20))#フォントの設定
 lbl.pack()
 
 #関数の呼び出し
